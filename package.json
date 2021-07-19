@@ -1,0 +1,16 @@
+{
+  "name": "simple-weather-app",
+  "version": "1.0.0",
+  "description": "Simple web app to get weather at your current location",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Colleran",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
